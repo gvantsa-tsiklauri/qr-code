@@ -1,0 +1,36 @@
+* {
+    box-sizing:border-box;
+}
+
+body {
+    background-color: #1F314F;
+    padding-top: 152px;
+    width: 1440px;
+    height:800px;
+}
+.parent {
+    padding: 10px;
+    width: 320px;
+    height: 497px;
+    background-color: white;
+    border-radius: 20px;
+}
+.child{
+    
+    width:288px;
+    height: 288px;
+    background-color: #1F314F;
+    border-radius: 10px;
+    padding-top: 60px;
+}
+.title{
+    padding-top:50px;
+    color:#1F314F;
+    font-size: 22px;
+    text-align: center;
+    font-weight: 700;
+}
+.text{
+    color: #7D889E;
+
+}
